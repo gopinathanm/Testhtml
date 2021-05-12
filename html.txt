@@ -1,0 +1,25 @@
+boiletplate template
+for html if you use ATOM then when you create a new file called index.html <name>.html
+and then type html at the begging, it automatically fills up the template like below
+this is done by emmet editor 
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+
+  </body>
+</html>
+
+
+
+<meta> used to diplay information about the website read more about it in mdn [mozilla developer network]
+
+if you want italicize use <em> tag
+if you want bold text use <strong> tag
+
+html   structure
+css    styling
+js     behaviour
